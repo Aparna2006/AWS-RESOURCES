@@ -38,4 +38,5 @@ AWS certification exam preparartion steps :
 
 8-https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf?utm_source=chatgpt.com
 
+9-https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes
 -----------------------------------------------------------------------------------------------------
