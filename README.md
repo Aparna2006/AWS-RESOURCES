@@ -5,7 +5,11 @@ ALL PDFS AND RESOURECS I COLLECTED
 **NOTE** : 
 ---- 1. FIRST REVISE EVERY TOPIC ,YT- NOTES, PDF, YT-QUESTIONS(PREVIOUS)
 
+--> "C:\Users\aparn\OneDrive\Documents\AWS\AWS - YT NOTES.pdf"(link)
+
 ---- 2. THEN MOCK TESTS AND MAKE CHEATSHEETS-- REVISE
+
+--> "C:\Users\aparn\OneDrive\Documents\AWS\AWS MOCKS.pdf"(link)
 
 ------------------------------------------------------
 AWS certification exam preparartion steps :
